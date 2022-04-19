@@ -1,0 +1,10 @@
+{"first_name": "s", "last_name": "d", "email": "s@s.com", "password": "1", "re_password": "1", "mobile_phone": "111111111111"}
+{"first_name": "dina", "last_name": "reda", "email": "dina@iti.com", "password": "1", "re_password": "1", "mobile_phone": "111111111111"}
+{"first_name": "dina", "last_name": "reda", "email": "d@d.com", "password": "1", "re_password": "1", "mobile_phone": "111111111111"}
+{"first_name": "dd", "last_name": "rr", "email": "dd@dd.com", "password": "2", "re_password": "2", "mobile_phone": "222222222222"}
+{"first_name": "h", "last_name": "h", "email": "h@h.com", "password": "2", "re_password": "2", "mobile_phone": "222222222222"}
+{"first_name": "dina", "last_name": "reda", "email": "dina@d.com", "password": "1", "re_password": "1", "mobile_phone": "111111111111"}
+{"first_name": "dod", "last_name": "dod", "email": "dod@d.com", "password": "1", "re_password": "1", "mobile_phone": "111111111111"}
+{"first_name": "s", "last_name": "s", "email": "ee@e.com", "password": "1", "re_password": "1", "mobile_phone": "111111111111"}
+{"first_name": "d", "last_name": "d", "email": "d@q.com", "password": "1111dddd", "phone": "010111111111"}
+{"first_name": "d", "last_name": "r", "email": "a@a.com", "password": "1111dddd", "phone": "010111111111"}
